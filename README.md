@@ -2,6 +2,7 @@
       
     
 ![License](https://img.shields.io/badge/License-none-blue.svg)
+![License](images/demo.png)
 ## Description
 Creating a site that showcases modern UI and mobile responsiveness with HTML and CSS
 ## Table of Contents
